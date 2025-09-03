@@ -1,0 +1,16 @@
+,Date,Station_Name,Station_ID,Longitude,Latitude,Temperature,PH,Dissolved_Oxygen,Turbidity_NTU,Sechchi_depth_m,clusters,cluster_colors
+1,13/08/2024,Split Lake Treatment Plant,SLTP,-96.104473,56.240852,21.2,7.5,10,19.1,NA,4,Red
+2,13/08/2024,York Landing Channel,YLC,-96.243379,56.147224,23.2,8,8.5,5.78,1.5,1,Green
+3,13/08/2024,Grassy River,GR,-96.561823,56.042369,20.6,7.8,6,6.47,1.7,5,Blue
+4,13/08/2024,Kelsey Dam,KD,-96.528981,56.044221,21,7.6,6,7.25,1.65,5,Blue
+5,13/08/2024,Nelson Burntwood,NB,-96.48789,56.117114,20.1,7.5,8.5,52.9,0.3,3,Orange
+6,14/08/2024,Odie River,OR,-96.918552,56.090504,21.1,7.8,7.5,34.7,0.47,1,Green
+7,14/08/2024,Burntwood River,BR,-96.876775,56.089492,20.8,7.8,8,65,0.33,3,Orange
+8,14/08/2024,Old Fish Camp Narrow,OFCN,-96.244563,56.156454,21.6,7.2,8,40.1,0.39,3,Orange
+9,15/08/2024,Aiken River,AK,-96.082448,56.076449,23.1,7.2,7,9.09,0.98,1,Green
+11,15/08/2024,Hole in the Rock Bay,HRB,-96.468558,56.114849,21.1,7.5,6,7.94,1.58,5,Blue
+12,16/08/2024,Assean Lake (west),ALw,-96.419163,56.233007,21.6,7.5,5.5,2.51,2.97,2,yellow
+13,16/08/2024,Assean Lake (east),ALe,-96.596072,56.185057,20.8,7.2,7,4.57,2.2,2,yellow
+14,16/08/2024,Split Clark Narrow,SCN,-95.949777,56.284847,21.3,7.8,6,14.5,0.9,4,Red
+15,16/08/2024,Maskwa Bay,MB,-95.915469,56.288952,20.8,7.5,5,13.6,1.08,4,Red
+16,16/08/2024,Clark Lake,CL,-95.919824,56.27994,21.2,7.5,8,12.7,1.1,4,Red
